@@ -1,7 +1,7 @@
 # StudyJavaWeb_msg
 a demo like BBS
 
-第一版
+第一版 20190409
 
 1.实现了随机生成符合中国人姓名的规则的姓名生成器
 
